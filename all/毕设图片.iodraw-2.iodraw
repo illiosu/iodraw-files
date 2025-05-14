@@ -1459,7 +1459,7 @@
           <mxGeometry x="-1699.52" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-51" value="要素时序播放" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-1689.52" y="1814" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1523.5" y="1813" width="35" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
