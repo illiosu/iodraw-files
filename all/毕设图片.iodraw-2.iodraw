@@ -1455,6 +1455,9 @@
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-47" value="海浪" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1801" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
+        <mxCell id="UHoUXPrIyZpe7eC_9u6A-50" value="海浪" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="-1791" y="1814" width="35" height="91" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
