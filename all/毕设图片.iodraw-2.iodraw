@@ -1440,7 +1440,7 @@
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-41" value="辅助功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1552" y="1711" width="128" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="UHoUXPrIyZpe7eC_9u6A-43" value="海温" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="UHoUXPrIyZpe7eC_9u6A-43" value="海温" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1927" y="1769" width="35" height="91" as="geometry" />
         </mxCell>
       </root>
