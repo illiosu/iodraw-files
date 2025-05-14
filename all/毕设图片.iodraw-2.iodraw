@@ -1441,16 +1441,13 @@
           <mxGeometry x="-1552" y="1711" width="128" height="32" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-43" value="海温" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-1983" y="1799" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1983" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-44" value="盐度" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-1938" y="1801" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1938" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-45" value="海流" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1893" y="1801" width="35" height="91" as="geometry" />
-        </mxCell>
-        <mxCell id="UHoUXPrIyZpe7eC_9u6A-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UHoUXPrIyZpe7eC_9u6A-46" target="UHoUXPrIyZpe7eC_9u6A-38">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-46" value="海风" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1847" y="1801" width="35" height="91" as="geometry" />
