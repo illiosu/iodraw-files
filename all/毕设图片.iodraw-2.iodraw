@@ -1329,8 +1329,8 @@
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-10" value="辅助功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="1380" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UHoUXPrIyZpe7eC_9u6A-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-1464" y="1190" width="60" height="80" as="geometry" />
+        <mxCell id="UHoUXPrIyZpe7eC_9u6A-11" value="模型预测数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1464" y="1320" width="102" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
