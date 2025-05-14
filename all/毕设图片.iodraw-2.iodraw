@@ -1435,7 +1435,7 @@
           <mxGeometry x="-1920" y="1707" width="128" height="32" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-40" value="海洋要素图层展示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1910" y="1717" width="128" height="32" as="geometry" />
+          <mxGeometry x="-1716" y="1711" width="128" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
