@@ -1446,7 +1446,7 @@
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-44" value="盐度" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1879" y="1771" width="35" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="UHoUXPrIyZpe7eC_9u6A-45" value="海温" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="UHoUXPrIyZpe7eC_9u6A-45" value="海流" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1836" y="1823" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-46" value="海温" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
