@@ -1320,7 +1320,7 @@
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-1" value="可视化展示界面" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="-1927" y="1300" width="57" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="UHoUXPrIyZpe7eC_9u6A-8" value="海洋" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UHoUXPrIyZpe7eC_9u6A-8" value="海洋要素图层展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="1290" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-9" value="海洋环境数据展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
