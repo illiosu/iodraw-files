@@ -1464,6 +1464,12 @@
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-52" value="打印" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1423" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
+        <mxCell id="UHoUXPrIyZpe7eC_9u6A-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UHoUXPrIyZpe7eC_9u6A-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1619" y="1662" as="sourcePoint" />
+            <mxPoint x="-1569" y="1612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
