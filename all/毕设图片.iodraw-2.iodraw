@@ -1416,10 +1416,10 @@
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-33" value="数据获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1435" y="1288" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UHoUXPrIyZpe7eC_9u6A-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1620" y="1350" as="sourcePoint" />
-            <mxPoint x="-1570" y="1300" as="targetPoint" />
+        <mxCell id="UHoUXPrIyZpe7eC_9u6A-35" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-1710" y="1340" as="sourcePoint" />
+            <mxPoint x="-1650" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
