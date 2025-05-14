@@ -1429,7 +1429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-37" value="海洋生态环境要素智能预报系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1616" y="1635" width="178.05" height="41" as="geometry" />
+          <mxGeometry x="-1752.03" y="1630" width="178.05" height="41" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-38" value="海洋要素图层展示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1938" y="1708" width="128" height="32" as="geometry" />
@@ -1459,10 +1459,10 @@
           <mxGeometry x="-1680.5" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-51" value="放大缩小" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-1548" y="1804" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1532" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-52" value="打印" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-1483" y="1804" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1423" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
