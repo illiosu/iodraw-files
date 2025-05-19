@@ -1569,11 +1569,16 @@
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-2" value="迭代训练轮次" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2067" width="125" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0GoWbbmyOYJ3kKbsEFz-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2406" y="2445.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2180" y="2001" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-4" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2231" y="1998" width="125" height="35" as="geometry" />
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-4" value="损失记录和显示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-2456" y="2364" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-5" value="前向传播" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2266" width="125" height="35" as="geometry" />
