@@ -1569,7 +1569,7 @@
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-2" value="迭代训练轮次" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2067" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-3" value="后向传播" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-3" value="反向传播" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2453" y="2409" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-4" value="损失记录和显示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
