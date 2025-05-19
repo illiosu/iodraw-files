@@ -1578,8 +1578,8 @@
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-5" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2223" y="2036" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2128" y="2206" width="125" height="35" as="geometry" />
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-6" value="时间编码生成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-2451" y="2221" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-7" value="梯度清零" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2173" width="125" height="35" as="geometry" />
