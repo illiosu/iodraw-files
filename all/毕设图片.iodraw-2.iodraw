@@ -1563,11 +1563,14 @@
             <mxPoint x="-1460" y="1804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0GoWbbmyOYJ3kKbsEFz-1" target="P0GoWbbmyOYJ3kKbsEFz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-1" value="训练环境初始化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2008" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-2" value="迭代训练轮次" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2451" y="2067" width="125" height="35" as="geometry" />
+          <mxGeometry x="-2451" y="2061" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-4" value="最佳模型保存" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2456" y="2364" width="125" height="35" as="geometry" />
@@ -1586,9 +1589,6 @@
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-9" value="验证与性能评估" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2456" y="2315" width="125" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-10" value="保存模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2456" y="2459" width="125" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
