@@ -1569,20 +1569,35 @@
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-1" value="训练环境初始化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2008" width="125" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0GoWbbmyOYJ3kKbsEFz-2" target="P0GoWbbmyOYJ3kKbsEFz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-2" value="迭代训练轮次" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2061" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-4" value="最佳模型保存" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2362" width="125" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0GoWbbmyOYJ3kKbsEFz-5" target="P0GoWbbmyOYJ3kKbsEFz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-5" value="指数移动平均维护" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2266" width="125" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0GoWbbmyOYJ3kKbsEFz-6" target="P0GoWbbmyOYJ3kKbsEFz-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-6" value="学习率动态调整" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2221" width="125" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0GoWbbmyOYJ3kKbsEFz-7" target="P0GoWbbmyOYJ3kKbsEFz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-7" value="梯度计算与参数更新" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2173" width="125" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="P0GoWbbmyOYJ3kKbsEFz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0GoWbbmyOYJ3kKbsEFz-8" target="P0GoWbbmyOYJ3kKbsEFz-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-8" value="自回归多步预测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2451" y="2120" width="125" height="35" as="geometry" />
