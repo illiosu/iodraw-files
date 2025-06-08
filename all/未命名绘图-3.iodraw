@@ -1444,7 +1444,7 @@
           <mxGeometry x="-1983" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-44" value="盐度" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="-1924" y="1804" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1922" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-46" value="叶绿素a" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="-1862" y="1804" width="35" height="91" as="geometry" />
@@ -1493,8 +1493,8 @@
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1918" y="1771" as="sourcePoint" />
-            <mxPoint x="-1918" y="1804" as="targetPoint" />
+            <mxPoint x="-1904.9" y="1771" as="sourcePoint" />
+            <mxPoint x="-1904.9" y="1804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
