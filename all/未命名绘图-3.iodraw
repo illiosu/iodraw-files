@@ -1444,10 +1444,10 @@
           <mxGeometry x="-1983" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-44" value="盐度" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="-1938" y="1804" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1911" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-46" value="叶绿素a" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="-1847" y="1804" width="35" height="91" as="geometry" />
+          <mxGeometry x="-1854" y="1804" width="35" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UHoUXPrIyZpe7eC_9u6A-47" value="溶解氧" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="-1801" y="1804" width="35" height="91" as="geometry" />
