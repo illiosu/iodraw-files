@@ -1629,14 +1629,14 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-10" value="ply、xml" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2925" y="-170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-8">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-8" target="uoWmGHxoRQmzW_IEgOKV-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2587" y="-242" as="sourcePoint" />
             <mxPoint x="-2596" y="-173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-13" value="将获取到的数据做对比" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2600" y="-213" width="145" height="94" as="geometry" />
+          <mxGeometry x="-2593" y="-220" width="145" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
