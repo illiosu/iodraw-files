@@ -1677,6 +1677,9 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-25" value="图像对数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2458" y="45" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2955" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
