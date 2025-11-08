@@ -1632,7 +1632,7 @@
             <mxPoint x="-2638" y="-259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-8" value="电文订阅发送接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2638" y="-284" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
