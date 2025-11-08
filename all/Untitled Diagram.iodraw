@@ -1713,11 +1713,14 @@
             <mxPoint x="-1697" y="-173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-37" value="合成微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-37" value="点云合成微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1697" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-38" value="判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1842" y="-211" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1852" y="-215" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
