@@ -1635,8 +1635,8 @@
             <mxPoint x="-2596" y="-173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2602" y="-307" width="80" height="80" as="geometry" />
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-13" value="将获取到的数据做对比" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2600" y="-213" width="145" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
