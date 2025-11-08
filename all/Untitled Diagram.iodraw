@@ -1650,7 +1650,7 @@
             <mxPoint x="-2512" y="-54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-16" value="根据模板参数进行逻辑判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-16" value="根据模板参数对电文订阅收到的数据进行逻辑判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2302" y="-203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-17" value="不执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1672,7 +1672,7 @@
           <mxGeometry x="-2019" y="-203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2447" y="-203" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2134" y="-209" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
