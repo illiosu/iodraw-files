@@ -1623,7 +1623,7 @@
             <mxPoint x="-2616" y="-296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-6" value="ply、xml" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2603" y="-383" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-1">
