@@ -1671,6 +1671,9 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-23" value="微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2019" y="-203" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2447" y="-203" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
