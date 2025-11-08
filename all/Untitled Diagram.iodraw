@@ -1605,7 +1605,7 @@
         <mxCell id="P0GoWbbmyOYJ3kKbsEFz-9" value="验证与性能评估" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-2451" y="2335" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-1" value="后端服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-1" value="后端服务&lt;div&gt;根据模板参数做逻辑判断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2824" y="-289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-2" value="模板推送接口，接收模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
