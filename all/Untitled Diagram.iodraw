@@ -1608,7 +1608,7 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3095" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-2" value="模板推送接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3071" y="-269" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
