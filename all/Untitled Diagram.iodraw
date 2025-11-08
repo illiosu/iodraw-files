@@ -1689,6 +1689,9 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-29" value="俯仰角：30±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2788" y="333" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-30" value="俯仰角：30±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2778" y="343" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
