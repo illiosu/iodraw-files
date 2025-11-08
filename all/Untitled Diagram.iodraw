@@ -1713,8 +1713,11 @@
             <mxPoint x="-1697" y="-173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2328" y="13" width="120" height="60" as="geometry" />
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-37" value="合成微服务3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1697" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2298" y="28" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
