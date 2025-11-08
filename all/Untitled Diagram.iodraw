@@ -1722,6 +1722,9 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-40" value="点云合成组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-1693.05" y="-215" width="92" height="92" as="geometry" />
         </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3069" y="-363" width="97" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
