@@ -1617,14 +1617,14 @@
             <mxPoint x="-2824" y="-257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.042;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-1" target="uoWmGHxoRQmzW_IEgOKV-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2587" y="-242" as="sourcePoint" />
             <mxPoint x="-2638" y="-259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-8" value="电文订阅发送接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2638" y="-284" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2638" y="-289" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
