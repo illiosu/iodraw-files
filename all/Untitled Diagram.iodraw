@@ -1681,7 +1681,10 @@
           <mxGeometry x="-3050" y="165" width="198" height="135" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-27" value="俯仰角：30±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2776" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2792" y="202.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-28" value="俯仰角次数：1&lt;div&gt;偏航角次数：1&lt;/div&gt;&lt;div&gt;俯仰角起始角：30&lt;/div&gt;&lt;div&gt;偏航角起始角：50&lt;/div&gt;&lt;div&gt;俯仰角间隔角：20&lt;/div&gt;&lt;div&gt;偏航角间隔角：20&lt;/div&gt;&lt;div&gt;偏航角误差：5&lt;/div&gt;&lt;div&gt;俯仰角误差：5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3040" y="175" width="198" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
