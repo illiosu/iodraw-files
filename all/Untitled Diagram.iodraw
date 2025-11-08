@@ -1656,8 +1656,11 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-17" value="不执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2576" y="-55" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2401" y="-205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-20" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2573" y="-113" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
