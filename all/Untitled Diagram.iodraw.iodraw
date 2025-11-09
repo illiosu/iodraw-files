@@ -1794,8 +1794,8 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-26" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1173" y="-370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1035" y="-424" width="120" height="60" as="geometry" />
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-27" value="点云合成微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-971" y="-417" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
