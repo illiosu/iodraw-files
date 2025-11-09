@@ -1758,7 +1758,7 @@
             <mxPoint x="-1570" y="-463" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-17" value="收到预处理结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1719" y="-529" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
