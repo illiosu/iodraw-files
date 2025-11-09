@@ -1651,7 +1651,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-16" value="根据模板参数对电文订阅收到的数据进行逻辑判断" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2504" y="-203" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2364" y="234" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-17" value="不执行" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2808" y="-55" width="120" height="60" as="geometry" />
@@ -1664,15 +1664,15 @@
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="uoWmGHxoRQmzW_IEgOKV-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2384" y="-173" as="sourcePoint" />
-            <mxPoint x="-2236" y="-173" as="targetPoint" />
+            <mxPoint x="-2244" y="264" as="sourcePoint" />
+            <mxPoint x="-2096" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-23" value="微服务(预处理)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2221" y="-203" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2081" y="234" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-24" value="符合要求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2336" y="-209" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2196" y="228" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-25" value="图像对数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2431" y="238" width="120" height="60" as="geometry" />
@@ -1709,18 +1709,18 @@
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1800" y="-152" as="sourcePoint" />
-            <mxPoint x="-1458" y="-161" as="targetPoint" />
+            <mxPoint x="-1660" y="285" as="sourcePoint" />
+            <mxPoint x="-1318" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-38" value="判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1603" y="-199" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1463" y="238" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-39" value="判断" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1613" y="-203" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1473" y="234" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-40" value="点云合成组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1459" y="-209" width="92" height="92" as="geometry" />
+          <mxGeometry x="-1319" y="228" width="92" height="92" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3056" y="255" width="1326" height="410" as="geometry" />
@@ -1730,8 +1730,8 @@
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2219" y="-277" as="sourcePoint" />
-            <mxPoint x="-1864" y="-178" as="targetPoint" />
+            <mxPoint x="-2079" y="160" as="sourcePoint" />
+            <mxPoint x="-1724" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-9" value="是否匹配模板参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1744,7 +1744,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-12" value="符合要求，放入数组，数组长度+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2101" y="-335" width="119" height="30" as="geometry" />
+          <mxGeometry x="-1961" y="102" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-14" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2136" y="-539" width="60" height="30" as="geometry" />
@@ -1799,14 +1799,14 @@
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1553" y="-268" as="sourcePoint" />
-            <mxPoint x="-1503" y="-318" as="targetPoint" />
+            <mxPoint x="-1413" y="169" as="sourcePoint" />
+            <mxPoint x="-1363" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1553" y="-268" as="sourcePoint" />
-            <mxPoint x="-1503" y="-318" as="targetPoint" />
+            <mxPoint x="-1413" y="169" as="sourcePoint" />
+            <mxPoint x="-1363" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6vqzYPlkdW9egKhhHJF-23" target="P6vqzYPlkdW9egKhhHJF-9">
