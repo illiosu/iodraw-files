@@ -1746,8 +1746,8 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-12" value="符合要求，放入数组，数组长度+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2101" y="-335" width="119" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2074" y="-289" width="60" height="30" as="geometry" />
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-14" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2136" y="-539" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
