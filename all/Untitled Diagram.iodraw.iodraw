@@ -1795,7 +1795,7 @@
           <mxGeometry x="-1173" y="-370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-27" value="点云合成微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-974" y="-423" width="120" height="60" as="geometry" />
+          <mxGeometry x="-851" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
