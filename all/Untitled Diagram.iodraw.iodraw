@@ -1651,7 +1651,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-16" value="根据模板参数对电文订阅收到的数据进行逻辑判断" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2364" y="-193" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2504" y="-203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-17" value="不执行" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2808" y="-55" width="120" height="60" as="geometry" />
@@ -1729,7 +1729,7 @@
           <mxGeometry x="-2224" y="-209" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2236" y="-51" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2224" y="-133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2224" y="-289" width="120" height="60" as="geometry" />
