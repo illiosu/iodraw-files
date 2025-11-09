@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="awl7yEh75_Ceyu0EXg5d">
-    <mxGraphModel dx="5991" dy="1720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5991" dy="2120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1725,9 +1725,6 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2945" y="255" width="1326" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2050" y="-274" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-6" value="维护长度为n的数组，每判断出一个符合要求的图像，就把此图像放入数组中，然后调用微服务（预处理），当数组长度达到n时（n为进行合成所需的图像个数），就把数组发送给点云合成微服务组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2410" y="11" width="381" height="109" as="geometry" />
         </mxCell>
@@ -1738,7 +1735,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-9" value="是否匹配模板参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2276" y="-369" width="138" height="90" as="geometry" />
+          <mxGeometry x="-2317" y="-539" width="138" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P6vqzYPlkdW9egKhhHJF-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
