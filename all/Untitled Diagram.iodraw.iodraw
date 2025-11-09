@@ -1725,15 +1725,6 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2945" y="255" width="1326" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1842" y="-183" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1842" y="-107" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1842" y="-263" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1842" y="-341" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1746,7 +1737,7 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2219" y="-277" as="sourcePoint" />
-            <mxPoint x="-2169" y="-327" as="targetPoint" />
+            <mxPoint x="-1864" y="-178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
