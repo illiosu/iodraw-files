@@ -1723,7 +1723,7 @@
           <mxGeometry x="-1459" y="-209" width="92" height="92" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2945" y="255" width="1326" height="410" as="geometry" />
+          <mxGeometry x="-3056" y="255" width="1326" height="410" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-6" value="维护长度为n的数组，每判断出一个符合要求的图像，就把此图像放入数组中，然后调用微服务（预处理），当数组长度达到n时（n为进行合成所需的图像个数），就把数组发送给点云合成微服务组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2410" y="11" width="381" height="109" as="geometry" />
@@ -1795,7 +1795,7 @@
           <mxGeometry x="-1173" y="-370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-27" value="点云合成微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-701" y="-467" width="120" height="60" as="geometry" />
+          <mxGeometry x="-695" y="-459" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
