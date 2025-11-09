@@ -1737,8 +1737,8 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2224" y="-367" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-6" value="维护长度为n的数组，n为" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2433" y="-256" width="130" height="38" as="geometry" />
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-6" value="维护长度为n的数组，n为进行合成所需的图像个数。每判断出一个符合要求的图像，就把此图像放入数组中，然后调用微服务（预处理），当数组长度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2590" y="-256" width="287" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
