@@ -1759,7 +1759,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-17" value="收到预处理结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1719" y="-529" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1731" y="-523" width="79" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2104" y="-304" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
