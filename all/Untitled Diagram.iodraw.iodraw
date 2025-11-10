@@ -1669,7 +1669,7 @@
           <mxGeometry x="-2978" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-28" value="俯仰角次数：2&lt;div&gt;偏航角次数：1&lt;/div&gt;&lt;div&gt;俯仰角起始角：30&lt;/div&gt;&lt;div&gt;偏航角起始角：50&lt;/div&gt;&lt;div&gt;俯仰角间隔角：20&lt;/div&gt;&lt;div&gt;偏航角间隔角：20&lt;/div&gt;&lt;div&gt;偏航角误差：5&lt;/div&gt;&lt;div&gt;俯仰角误差：5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3238" y="248.5" width="198" height="135" as="geometry" />
+          <mxGeometry x="-3304" y="300" width="198" height="135" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-29" value="俯仰角：30±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2978" y="248.5" width="120" height="60" as="geometry" />
@@ -1706,9 +1706,6 @@
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-40" value="点云合成组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1541" y="1048" width="92" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3266" y="280" width="2295" height="414" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-6" value="维护长度为n的数组，每判断出一个符合要求的图像，就把此图像放入数组中，然后调用微服务（预处理），当数组长度达到n时（n为进行合成所需的图像个数），就把数组发送给点云合成微服务组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2631" y="906" width="381" height="109" as="geometry" />
