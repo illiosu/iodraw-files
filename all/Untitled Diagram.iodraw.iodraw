@@ -1606,7 +1606,7 @@
           <mxGeometry x="-2451" y="2335" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-1" value="模板推送接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3097" y="-507" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3102" y="-511" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-2" value="模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3236" y="-474" width="107" height="36" as="geometry" />
