@@ -1669,7 +1669,7 @@
           <mxGeometry x="-2653" y="1058" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-26" value="俯仰角次数：1&lt;div&gt;偏航角次数：1&lt;/div&gt;&lt;div&gt;俯仰角起始角：30&lt;/div&gt;&lt;div&gt;偏航角起始角：50&lt;/div&gt;&lt;div&gt;俯仰角间隔角：20&lt;/div&gt;&lt;div&gt;偏航角间隔角：20&lt;/div&gt;&lt;div&gt;偏航角误差：5&lt;/div&gt;&lt;div&gt;俯仰角误差：5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3240" y="86" width="198" height="135" as="geometry" />
+          <mxGeometry x="-3300" y="170" width="198" height="135" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-27" value="俯仰角：30±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2982" y="123.5" width="120" height="60" as="geometry" />
@@ -1851,7 +1851,7 @@
             <mxPoint x="-3006.428571428571" y="-141" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1982" y="58" />
-              <mxPoint x="-3026" y="75" />
+              <mxPoint x="-3017" y="48" />
             </Array>
           </mxGeometry>
         </mxCell>
