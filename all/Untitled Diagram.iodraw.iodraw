@@ -1842,14 +1842,20 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-46" value="所有模板处理完毕" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2055" y="-367" width="138" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P6vqzYPlkdW9egKhhHJF-46">
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6vqzYPlkdW9egKhhHJF-46" target="P6vqzYPlkdW9egKhhHJF-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2518" y="-87" as="sourcePoint" />
             <mxPoint x="-1697" y="-319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-48" value="点云合成微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-898" y="-168" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1695" y="-349" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1585" y="-87" as="sourcePoint" />
+            <mxPoint x="-1535" y="-137" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
