@@ -1702,7 +1702,7 @@
           <mxGeometry x="-2978" y="501" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-34" value="俯仰角：50±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2816" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2762" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-35" value="俯仰角：50±5&lt;div&gt;偏航角：70±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2816" y="501" width="120" height="60" as="geometry" />
