@@ -1617,16 +1617,6 @@
             <mxPoint x="-3097" y="-475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="uoWmGHxoRQmzW_IEgOKV-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2621" y="-423" as="sourcePoint" />
-            <mxPoint x="-3143" y="-173" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-3082" y="-364" />
-              <mxPoint x="-2996" y="-317" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-8" value="电文订阅发送接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3250" y="-202" width="120" height="60" as="geometry" />
         </mxCell>
