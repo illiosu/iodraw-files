@@ -1638,12 +1638,6 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-13" value="PLY和XML文件名匹配" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2817" y="-220" width="145" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uoWmGHxoRQmzW_IEgOKV-13" target="P6vqzYPlkdW9egKhhHJF-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2819" y="-242" as="sourcePoint" />
-            <mxPoint x="-2534" y="-173" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.525;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uoWmGHxoRQmzW_IEgOKV-13" target="uoWmGHxoRQmzW_IEgOKV-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2819" y="-242" as="sourcePoint" />
@@ -1657,7 +1651,7 @@
           <mxGeometry x="-2808" y="-55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2633" y="-205" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2409" y="-71" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-20" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2805" y="-113" width="60" height="30" as="geometry" />
@@ -1735,7 +1729,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-9" value="是否匹配模板参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2534" y="-218" width="138" height="90" as="geometry" />
+          <mxGeometry x="-2279" y="-161" width="138" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6vqzYPlkdW9egKhhHJF-9" target="P6vqzYPlkdW9egKhhHJF-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
