@@ -1876,6 +1876,9 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-55" value="模板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2672" y="-403" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2440" y="-121" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
