@@ -1729,7 +1729,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-17" value="收到预处理结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1757" y="-202" width="79" height="32" as="geometry" />
+          <mxGeometry x="-1750" y="-205" width="79" height="32" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-18" value="加入列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1595" y="-179" width="120" height="60" as="geometry" />
