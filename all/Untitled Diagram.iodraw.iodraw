@@ -1795,7 +1795,7 @@
           <mxGeometry x="-2691" y="-455" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-38" value="解析XML的站点号、偏航角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2685" y="-202" width="120" height="58" as="geometry" />
+          <mxGeometry x="-2686" y="-202" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-39" value="和模板进行匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2689" y="-359" width="138" height="90" as="geometry" />
