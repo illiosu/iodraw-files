@@ -1900,6 +1900,9 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-66" value="生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2771" y="-511" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2607" y="-257" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
