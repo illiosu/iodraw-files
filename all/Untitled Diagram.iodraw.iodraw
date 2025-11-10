@@ -1606,15 +1606,15 @@
           <mxGeometry x="-2451" y="2335" width="125" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-1" value="模板推送接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3056" y="-289" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3102" y="-332" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-2" value="模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-3195" y="-256" width="107" height="36" as="geometry" />
+          <mxGeometry x="-3241" y="-299" width="107" height="36" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="uoWmGHxoRQmzW_IEgOKV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3225" y="-259" as="sourcePoint" />
-            <mxPoint x="-3056" y="-257" as="targetPoint" />
+            <mxPoint x="-3271" y="-302" as="sourcePoint" />
+            <mxPoint x="-3102" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.042;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="uoWmGHxoRQmzW_IEgOKV-8" edge="1">
@@ -1865,6 +1865,12 @@
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-51" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2048" y="-250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.972;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uoWmGHxoRQmzW_IEgOKV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2726" y="-81" as="sourcePoint" />
+            <mxPoint x="-2676" y="-131" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
