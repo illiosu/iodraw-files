@@ -1873,7 +1873,7 @@
             <mxPoint x="-2385" y="-131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-58" value="PLY和XML文件名匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-58" value="模板设置完成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3255" y="-359" width="145" height="94" as="geometry" />
         </mxCell>
       </root>
