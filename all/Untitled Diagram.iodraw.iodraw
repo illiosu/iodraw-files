@@ -1611,10 +1611,10 @@
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-2" value="模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3236" y="-474" width="107" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="uoWmGHxoRQmzW_IEgOKV-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="uoWmGHxoRQmzW_IEgOKV-1" edge="1">
+        <mxCell id="uoWmGHxoRQmzW_IEgOKV-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="uoWmGHxoRQmzW_IEgOKV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3263" y="-486" as="sourcePoint" />
-            <mxPoint x="-3097" y="-475" as="targetPoint" />
+            <mxPoint x="-3310" y="-489" as="sourcePoint" />
+            <mxPoint x="-3149" y="-485.3574660633485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-8" value="电文订阅发送接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
