@@ -1820,7 +1820,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6vqzYPlkdW9egKhhHJF-31" value="文件数、站点号、偏航角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2890" y="-327" width="120" height="58" as="geometry" />
+          <mxGeometry x="-2904" y="-324" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-32" value="文件数、站点号、偏航角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2727" y="-364" width="120" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
