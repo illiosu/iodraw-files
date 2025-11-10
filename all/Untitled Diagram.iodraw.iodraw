@@ -1897,8 +1897,8 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-65" value="解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2978" y="-513" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P6vqzYPlkdW9egKhhHJF-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2604" y="-242" width="60" height="30" as="geometry" />
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-66" value="生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2771" y="-511" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
