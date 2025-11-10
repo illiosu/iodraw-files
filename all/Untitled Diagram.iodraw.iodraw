@@ -1672,7 +1672,7 @@
           <mxGeometry x="-3300" y="340" width="198" height="135" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-29" value="俯仰角：30±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3008" y="345" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3008" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-30" value="俯仰角：50±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3008" y="420" width="120" height="60" as="geometry" />
@@ -1684,7 +1684,7 @@
           <mxGeometry x="-3008" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-33" value="俯仰角：50±5&lt;div&gt;偏航角：70±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3008" y="587" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3008" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uoWmGHxoRQmzW_IEgOKV-34" value="俯仰角：50±5&lt;div&gt;偏航角：50±5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2842" y="512" width="120" height="60" as="geometry" />
