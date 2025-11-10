@@ -1860,6 +1860,9 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-50" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1847" y="-358" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-51" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2048" y="-250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
