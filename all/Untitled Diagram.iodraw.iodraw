@@ -1815,6 +1815,12 @@
         <mxCell id="P6vqzYPlkdW9egKhhHJF-39" value="匹配模板参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2487" y="-350" width="138" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="P6vqzYPlkdW9egKhhHJF-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2496" y="-94" as="sourcePoint" />
+            <mxPoint x="-2446" y="-144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
