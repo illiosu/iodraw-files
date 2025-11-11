@@ -489,6 +489,9 @@
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-8" value="解析xml接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3270" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-9" value="输入：xml&lt;div&gt;输出：csv&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3270" y="720" width="120.63" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
