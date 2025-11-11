@@ -486,8 +486,8 @@
             <mxPoint x="-3270" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3300" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-8" value="解析xml接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3270" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
