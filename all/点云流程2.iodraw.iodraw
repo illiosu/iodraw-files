@@ -421,16 +421,16 @@
           <mxGeometry x="-2634.25" y="525" width="84.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5zHmpGvlNfhN_YQQqHcW-206" value="人工操作，选计算模式、配置参数，发送指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3169" y="660" width="119" height="60" as="geometry" />
+          <mxGeometry x="-3169" y="880" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5zHmpGvlNfhN_YQQqHcW-210" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5zHmpGvlNfhN_YQQqHcW-206" target="5zHmpGvlNfhN_YQQqHcW-211" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3041" y="694" as="sourcePoint" />
-            <mxPoint x="-3003" y="690" as="targetPoint" />
+            <mxPoint x="-3041" y="914" as="sourcePoint" />
+            <mxPoint x="-3003" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5zHmpGvlNfhN_YQQqHcW-211" value="接收计算结果，并显示" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2901" y="660" width="84.5" height="60" as="geometry" />
+          <mxGeometry x="-2901" y="880" width="84.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5zHmpGvlNfhN_YQQqHcW-215" value="铲挖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3257" y="355" width="60" height="30" as="geometry" />
@@ -439,7 +439,7 @@
           <mxGeometry x="-3257" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5zHmpGvlNfhN_YQQqHcW-217" value="预报计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-3257" y="675" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3257" y="895" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5zHmpGvlNfhN_YQQqHcW-218" value="TOF重建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3580" y="-79" width="60" height="30" as="geometry" />
