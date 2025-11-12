@@ -496,10 +496,10 @@
           <mxGeometry x="-2218" y="482" width="543" height="373" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="-2202" y="595" width="253" height="360" as="geometry" />
+          <mxGeometry x="-2215" y="503" width="253" height="360" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-14" value="激光点云处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2198" y="495" width="78" height="23" as="geometry" />
+          <mxGeometry x="-2218" y="484" width="78" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
