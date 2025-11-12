@@ -514,7 +514,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-19" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-2169" y="534" width="205" height="253" as="geometry" />
+          <mxGeometry x="-2167" y="537" width="205" height="253" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-19">
           <mxGeometry width="205" height="28" as="geometry" />
@@ -818,6 +818,9 @@
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-206" value="强制合成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2205" y="797" width="52" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-267" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2032" y="606" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
