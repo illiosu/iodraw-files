@@ -780,8 +780,8 @@
             <mxRectangle width="41" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-197" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2143" y="711" width="60" height="30" as="geometry" />
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-197" value="模型显示&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1846" y="637" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
