@@ -493,7 +493,7 @@
           <mxGeometry x="-3289.63" y="600" width="120.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="477" width="543" height="373" as="geometry" />
+          <mxGeometry x="-2218" y="482" width="543" height="373" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-14" value="激光点云处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2218" y="482" width="78" height="23" as="geometry" />
@@ -601,7 +601,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-46" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-2204" y="522" width="400" height="400" as="geometry" />
+          <mxGeometry x="-2203.5" y="519" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-47" value="Actor 1" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-46">
           <mxGeometry y="40" width="400" height="120" as="geometry" />
