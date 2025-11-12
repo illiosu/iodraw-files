@@ -544,7 +544,7 @@
             <mxRectangle width="40" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-116" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;输出&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-116" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;状态&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
           <mxGeometry x="195" width="37" height="28" as="geometry">
             <mxRectangle width="37" height="28" as="alternateBounds" />
           </mxGeometry>
