@@ -834,8 +834,11 @@
             <mxPoint x="-1988" y="1005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-283" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-283" value="模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2092" y="973" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-284" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1983" y="985" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
