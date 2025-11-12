@@ -504,6 +504,9 @@
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-16" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="-2213" y="504" width="260" height="346" as="geometry" />
         </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2034" y="707" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
