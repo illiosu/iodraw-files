@@ -524,17 +524,17 @@
             <mxRectangle width="79" height="97" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-22" value="xml" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
           <mxGeometry x="79" width="81" height="97" as="geometry">
             <mxRectangle width="81" height="97" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-23" value="偏航角" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
           <mxGeometry x="160" width="78" height="97" as="geometry">
             <mxRectangle width="78" height="97" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-40" value="俯仰角" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
           <mxGeometry x="238" width="78" height="97" as="geometry">
             <mxRectangle width="78" height="97" as="alternateBounds" />
           </mxGeometry>
