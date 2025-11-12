@@ -539,12 +539,12 @@
             <mxRectangle width="42" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-40" value="俯仰角" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;俯仰角&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
           <mxGeometry x="169" width="42" height="48" as="geometry">
             <mxRectangle width="42" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-116" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-116" value="输出" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="yW_cqvEcRNUJPHzqdyhv-20">
           <mxGeometry x="211" width="41" height="48" as="geometry">
             <mxRectangle width="41" height="48" as="alternateBounds" />
           </mxGeometry>
