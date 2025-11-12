@@ -847,7 +847,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-286" value="前端调用，接收模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2013" y="1058" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2009" y="1058" width="88" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
