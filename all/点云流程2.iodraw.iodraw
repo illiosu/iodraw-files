@@ -505,7 +505,13 @@
           <mxGeometry x="-2213" y="504" width="260" height="346" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-17" value="文件数量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-2213" y="504" width="51" height="14" as="geometry" />
+          <mxGeometry x="-2213" y="507" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2029" y="747" as="sourcePoint" />
+            <mxPoint x="-1979" y="697" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
