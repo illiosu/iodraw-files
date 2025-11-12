@@ -819,9 +819,9 @@
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-279" value="模板订阅接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2252" y="975" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-280" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-280" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yW_cqvEcRNUJPHzqdyhv-279">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2031" y="1088" as="sourcePoint" />
+            <mxPoint x="-2380" y="1006" as="sourcePoint" />
             <mxPoint x="-1981" y="1038" as="targetPoint" />
           </mxGeometry>
         </mxCell>
