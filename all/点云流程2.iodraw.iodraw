@@ -820,7 +820,22 @@
           <mxGeometry x="-2205" y="797" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-267" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2032" y="606" width="16" height="16" as="geometry" />
+          <mxGeometry x="-2190" y="572" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-268" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2180" y="582" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-269" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2190" y="600" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-270" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2190" y="624" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-271" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2187" y="655.5" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-272" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2190" y="683" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
