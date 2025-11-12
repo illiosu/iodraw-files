@@ -837,7 +837,7 @@
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-283" value="模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2092" y="973" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-284" value="模板接收接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-284" value="模板参数接收接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1987" y="981" width="118" height="54" as="geometry" />
         </mxCell>
         <mxCell id="yW_cqvEcRNUJPHzqdyhv-285" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.061;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yW_cqvEcRNUJPHzqdyhv-284">
@@ -846,7 +846,7 @@
             <mxPoint x="-1981" y="1038" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yW_cqvEcRNUJPHzqdyhv-286" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yW_cqvEcRNUJPHzqdyhv-286" value="前端调用，接收模板参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2013" y="1058" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
