@@ -170,7 +170,7 @@
         <mxCell id="5rr_btxb6o-dle4WorRs-40" value="生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2771" y="-511" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="kbl6D_9RGwFUV9cyd6ZA-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2908" y="355" as="sourcePoint" />
             <mxPoint x="-2720" y="355" as="targetPoint" />
@@ -205,6 +205,9 @@
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-27" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;150%;font-family:宋体;mso-bidi-font-family:&amp;quot;Segoe UI&amp;quot;;color:black;mso-font-kerning:&amp;lt;br/&amp;gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;pointcloudurls&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2310" y="450" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2760" y="315" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
