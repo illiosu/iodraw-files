@@ -195,7 +195,7 @@
           <mxGeometry x="-2520" y="247.25" width="80" height="215.5" as="geometry" />
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-7" value="pointcloudurls" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2510" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2525" y="207.25" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
