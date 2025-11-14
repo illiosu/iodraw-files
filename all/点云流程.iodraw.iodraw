@@ -263,8 +263,14 @@
             <mxPoint x="-2610" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2670" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-47" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2292" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-48" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="-2660" y="350" as="sourcePoint" />
+            <mxPoint x="-2610" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
