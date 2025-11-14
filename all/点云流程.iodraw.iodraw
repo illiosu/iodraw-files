@@ -338,7 +338,7 @@
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-67" value="此流程处理完毕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbl6D_9RGwFUV9cyd6ZA-61">
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbl6D_9RGwFUV9cyd6ZA-61" target="kbl6D_9RGwFUV9cyd6ZA-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1640" y="620" as="sourcePoint" />
             <mxPoint x="-1970" y="720" as="targetPoint" />
@@ -348,7 +348,7 @@
           <mxGeometry x="-1970" y="655" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-71" value="此流程处理完毕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2030" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
