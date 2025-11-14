@@ -338,10 +338,10 @@
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-67" value="此流程处理完毕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.6;exitY=0.959;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kbl6D_9RGwFUV9cyd6ZA-61">
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbl6D_9RGwFUV9cyd6ZA-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1640" y="620" as="sourcePoint" />
-            <mxPoint x="-1590" y="570" as="targetPoint" />
+            <mxPoint x="-1960" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
