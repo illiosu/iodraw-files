@@ -261,7 +261,7 @@
           <mxGeometry x="-1957" y="375.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-45" value="前端是否发送确认信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2430" y="290" width="140" height="140" as="geometry" />
+          <mxGeometry x="-2430" y="302.5" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
