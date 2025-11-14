@@ -314,7 +314,7 @@
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-61" value="是否待确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2010" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kbl6D_9RGwFUV9cyd6ZA-61">
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbl6D_9RGwFUV9cyd6ZA-61" target="kbl6D_9RGwFUV9cyd6ZA-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2010" y="470" as="sourcePoint" />
             <mxPoint x="-1780" y="600" as="targetPoint" />
@@ -322,6 +322,9 @@
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-63" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1900" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-64" value="前端是否发送确认信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="545" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
