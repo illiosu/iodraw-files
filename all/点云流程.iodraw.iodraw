@@ -256,15 +256,12 @@
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kbl6D_9RGwFUV9cyd6ZA-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2102" y="-302" as="sourcePoint" />
-            <mxPoint x="-1933" y="-306.9999999999998" as="targetPoint" />
+            <mxPoint x="-2127" y="410.5" as="sourcePoint" />
+            <mxPoint x="-1958" y="405.5000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-42" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2063" y="-342.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-43" value="点云合成微服务&lt;div&gt;(in: plyList、xmlList&lt;/div&gt;&lt;div&gt;out: ply、xml)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1932" y="-337" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1957" y="375.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
