@@ -293,6 +293,9 @@
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-55" value="status：confirming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-56" value="status：preprocessed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2350" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
