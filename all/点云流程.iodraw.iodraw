@@ -321,7 +321,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-63" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1900" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1900" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-64" value="前端是否发送确认信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1770" y="545" width="140" height="110" as="geometry" />
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-66" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1610" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
