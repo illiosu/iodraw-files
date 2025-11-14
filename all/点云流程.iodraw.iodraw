@@ -173,7 +173,7 @@
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2908" y="355" as="sourcePoint" />
-            <mxPoint x="-2540" y="355" as="targetPoint" />
+            <mxPoint x="-2720" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-2" value="和模板是否匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
