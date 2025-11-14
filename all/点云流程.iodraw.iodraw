@@ -320,8 +320,8 @@
             <mxPoint x="-1780" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-63" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1900" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
