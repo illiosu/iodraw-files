@@ -350,6 +350,9 @@
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-71" value="此流程处理完毕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2030" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-72" value="status：confirming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2490" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
