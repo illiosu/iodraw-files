@@ -245,9 +245,9 @@
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-40" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;150%;font-family:宋体;mso-bidi-font-family:&amp;quot;Segoe UI&amp;quot;;color:black;mso-font-kerning:&amp;lt;br/&amp;gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;pointcloudurls&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2620" y="410" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kbl6D_9RGwFUV9cyd6ZA-43">
+        <mxCell id="kbl6D_9RGwFUV9cyd6ZA-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="kbl6D_9RGwFUV9cyd6ZA-43" source="kbl6D_9RGwFUV9cyd6ZA-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2127" y="410.5" as="sourcePoint" />
+            <mxPoint x="-2070" y="400" as="sourcePoint" />
             <mxPoint x="-1958" y="405.5000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
