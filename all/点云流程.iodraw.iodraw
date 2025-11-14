@@ -204,7 +204,7 @@
           <mxGeometry x="-2720" y="395" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kbl6D_9RGwFUV9cyd6ZA-27" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;150%;font-family:宋体;mso-bidi-font-family:&amp;quot;Segoe UI&amp;quot;;color:black;mso-font-kerning:&amp;lt;br/&amp;gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;pointcloudurls&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2720" y="235" width="140" height="40" as="geometry" />
+          <mxGeometry x="-2730" y="235" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
